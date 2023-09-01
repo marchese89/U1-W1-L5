@@ -71,6 +71,10 @@ h1 {
   color: white;
 }
 
+#button > button:hover {
+  cursor: pointer;
+}
+
 header {
   background-color: black;
   padding: 4vh 0;
